@@ -525,7 +525,6 @@ application/x-mobipocket-ebook			prc mobi
 application/x-ms-application			application
 application/x-ms-shortcut			lnk
 application/x-ms-wmd				wmd
-application/x-ms-wmz				wmz
 application/x-ms-xbap				xbap
 application/x-msaccess				mdb
 application/x-msbinder				obd
@@ -638,7 +637,6 @@ image/svg+xml					svg svgz
 image/tiff					tiff tif
 image/vnd.adobe.photoshop			psd
 image/vnd.dece.graphic				uvi uvvi uvg uvvg
-image/vnd.dvb.subtitle				sub
 image/vnd.djvu					djvu djv
 image/vnd.dwg					dwg
 image/vnd.dxf					dxf
